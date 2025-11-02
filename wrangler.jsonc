@@ -2,6 +2,6 @@
     "name": "random",
     "compatibility_date": "2025-11-02",
     "assets": {
-        "directory": "_worker.js"
+        "directory": "./"
     }
 }
