@@ -9,7 +9,6 @@ Telegram Discussion & Feedback Group: https://t.me/eooceu
 High-performance VLESS proxy service based on Cloudflare Workers
 
 </div>
-
 ## Features
 
 - 🚀 High-performance proxy based on Cloudflare Workers
